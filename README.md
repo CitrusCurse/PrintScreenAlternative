@@ -1,5 +1,5 @@
 # PrintScreenAlternative
-Since my Surface Pro 3 keyboard does not have a print screen button, I decided to make my own.
+Since my Surface Pro 3 keyboard does not have a physical print screen button, I decided to make my own solution.
 
 When the application is launched a dialog box will appear with a welcome message and the printscreen icon will be displayed in
 the system task try. The application can perform the two following operations:
