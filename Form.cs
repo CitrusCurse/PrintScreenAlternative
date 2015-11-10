@@ -50,14 +50,6 @@ namespace PrintScreenAlternative
             #endregion
         }
 
-        #region Hidden: exitMenuItem_Click Archived Values
-        /*void exitMenuItem_Click(object sender, EventArgs e)
-        {
-            this.Close();
-            Application.Exit();
-        }*/
-        #endregion
-
         void theIcon_MouseClick(object sender, MouseEventArgs e)
         {
             #region Variable Declaration & Get Initial Clipboard Image
