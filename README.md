@@ -3,8 +3,10 @@ Since my Surface Pro 3 keyboard does not have a physical print screen button, I 
 
 When the application is launched a dialog box will appear with a welcome message and the printscreen icon will be displayed in
 the system task try. The application can perform the two following operations:
+
       Left Click: Print Screen (replicates keystroke of a physical Print Screen Button)
       Right Click: Print Screen & save screenshot as an image (w/dialog box).
+      
 Note: The application will close after taking a screenshot.
 
 Keyboard Shortcut/Task Bar Setup
